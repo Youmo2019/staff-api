@@ -1,0 +1,188 @@
+[
+  {
+    "Staff Role Name": "Owner",
+    "Staff Role Nickname": "O",
+    "Staff Team Role ID": 1386020681141059600,
+    "Team Related ID": 1454988870390124500
+  },
+  {
+    "Staff Role Name": "Co-Owner",
+    "Staff Role Nickname": "CO",
+    "Staff Team Role ID": 1454988793810780200,
+    "Team Related ID": 1454988870390124500
+  },
+  {
+    "Staff Role Name": "Director",
+    "Staff Role Nickname": "D",
+    "Staff Team Role ID": 1320934513311875000,
+    "Team Related ID": 1320934511441084400
+  },
+  {
+    "Staff Role Name": "Deputy Director",
+    "Staff Role Nickname": "DD",
+    "Staff Team Role ID": 1320934514440278000,
+    "Team Related ID": 1320934511441084400
+  },
+  {
+    "Staff Role Name": "Assistant Director",
+    "Staff Role Nickname": "AD",
+    "Staff Team Role ID": 1320934515413094400,
+    "Team Related ID": 1320934511441084400
+  },
+  {
+    "Staff Role Name": "Community Manager",
+    "Staff Role Nickname": "CM",
+    "Staff Team Role ID": 1413945886454710300,
+    "Team Related ID": 1454300578040512500
+  },
+  {
+    "Staff Role Name": "Head of Supervisor",
+    "Staff Role Nickname": "HS",
+    "Staff Team Role ID": 1454386882463928600,
+    "Team Related ID": 1454300578040512500
+  },
+  {
+    "Staff Role Name": "Senior Supervisor",
+    "Staff Role Nickname": "SS",
+    "Staff Team Role ID": 1454300571774222600,
+    "Team Related ID": 1454300578040512500
+  },
+  {
+    "Staff Role Name": "Supervisor",
+    "Staff Role Nickname": "S",
+    "Staff Team Role ID": 1454300558642122800,
+    "Team Related ID": 1454300578040512500
+  },
+  {
+    "Staff Role Name": "Junior Supervisor",
+    "Staff Role Nickname": "JS",
+    "Staff Team Role ID": 1454300574781542400,
+    "Team Related ID": 1454300578040512500
+  },
+  {
+    "Staff Role Name": "Trial Supervisor",
+    "Staff Role Nickname": "TS",
+    "Staff Team Role ID": 1454350937807261700,
+    "Team Related ID": 1454300578040512500
+  },
+  {
+    "Staff Role Name": "Head of Management",
+    "Staff Role Nickname": "HMGMT",
+    "Staff Team Role ID": 1454384411838648600,
+    "Team Related ID": 1320934517506179000
+  },
+  {
+    "Staff Role Name": "Senior Management",
+    "Staff Role Nickname": "SMGMT",
+    "Staff Team Role ID": 1320934519544483800,
+    "Team Related ID": 1320934517506179000
+  },
+  {
+    "Staff Role Name": "Management",
+    "Staff Role Nickname": "MGMT",
+    "Staff Team Role ID": 1320934520438128600,
+    "Team Related ID": 1320934517506179000
+  },
+  {
+    "Staff Role Name": "Junior Management",
+    "Staff Role Nickname": "JMGMT",
+    "Staff Team Role ID": 1320934521633243100,
+    "Team Related ID": 1320934517506179000
+  },
+  {
+    "Staff Role Name": "Trial Management",
+    "Staff Role Nickname": "TMGMT",
+    "Staff Team Role ID": 1320934522677891000,
+    "Team Related ID": 1320934517506179000
+  },
+  {
+    "Staff Role Name": "Head of Internal Affairs",
+    "Staff Role Nickname": "HIA",
+    "Staff Team Role ID": 1453112511162351900,
+    "Team Related ID": 1336173274500956200
+  },
+  {
+    "Staff Role Name": "Senior Internal Affairs",
+    "Staff Role Nickname": "SIA",
+    "Staff Team Role ID": 1336173467334217700,
+    "Team Related ID": 1336173274500956200
+  },
+  {
+    "Staff Role Name": "Internal Affairs",
+    "Staff Role Nickname": "IA",
+    "Staff Team Role ID": 1336173416289403000,
+    "Team Related ID": 1336173274500956200
+  },
+  {
+    "Staff Role Name": "Junior Internal Affairs",
+    "Staff Role Nickname": "JIA",
+    "Staff Team Role ID": 1336173381967417300,
+    "Team Related ID": 1336173274500956200
+  },
+  {
+    "Staff Role Name": "Trial Internal Affairs",
+    "Staff Role Nickname": "TIA",
+    "Staff Team Role ID": 1336173333988905000,
+    "Team Related ID": 1336173274500956200
+  },
+  {
+    "Staff Role Name": "Head of Administrators",
+    "Staff Role Nickname": "HA",
+    "Staff Team Role ID": 1454384406944026600,
+    "Team Related ID": 1320934524279980000
+  },
+  {
+    "Staff Role Name": "Senior Administrator",
+    "Staff Role Nickname": "SA",
+    "Staff Team Role ID": 1320934526955819000,
+    "Team Related ID": 1320934524279980000
+  },
+  {
+    "Staff Role Name": "Administrator",
+    "Staff Role Nickname": "A",
+    "Staff Team Role ID": 1320934528017240000,
+    "Team Related ID": 1320934524279980000
+  },
+  {
+    "Staff Role Name": "Junior Administrator",
+    "Staff Role Nickname": "JA",
+    "Staff Team Role ID": 1320934529447362800,
+    "Team Related ID": 1320934524279980000
+  },
+  {
+    "Staff Role Name": "Trial Administrator",
+    "Staff Role Nickname": "TA",
+    "Staff Team Role ID": 1320934530680619000,
+    "Team Related ID": 1320934524279980000
+  },
+  {
+    "Staff Role Name": "Head of Moderators",
+    "Staff Role Nickname": "HM",
+    "Staff Team Role ID": 1454384403479396600,
+    "Team Related ID": 1320934531691319300
+  },
+  {
+    "Staff Role Name": "Senior Moderaotor",
+    "Staff Role Nickname": "SM",
+    "Staff Team Role ID": 1320934533566300200,
+    "Team Related ID": 1320934531691319300
+  },
+  {
+    "Staff Role Name": "Moderator",
+    "Staff Role Nickname": "M",
+    "Staff Team Role ID": 1320934534350635000,
+    "Team Related ID": 1320934531691319300
+  },
+  {
+    "Staff Role Name": "Junior Moderator",
+    "Staff Role Nickname": "JM",
+    "Staff Team Role ID": 1320934535655063600,
+    "Team Related ID": 1320934531691319300
+  },
+  {
+    "Staff Role Name": "Trial Moderator",
+    "Staff Role Nickname": "TM",
+    "Staff Team Role ID": 1320934536854638600,
+    "Team Related ID": 1320934531691319300
+  }
+]
